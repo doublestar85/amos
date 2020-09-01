@@ -1,0 +1,40 @@
+h1 {
+    color: #ee5c2b;
+    background: repeating-linear-gradient(
+    45deg,
+    #373535,
+    #373535 5px,
+    #373535 10px,
+    #FFFF6F 40px
+    );
+    text-align: center;
+}
+/* Icon Bar desktop */
+.iconrack {
+    background-color: #9FA2A2;
+    margin: 0px;
+}
+/* Icon Bar mobile */
+/* @media screen and (max-width: 578px) {
+    .iconrack {
+
+    }
+} */
+
+/* icon/buttons desktop */
+.prettyicon {
+    color: #0ACDFE;
+    font-weight: lighter;
+    background-color: 
+    #D90123;
+    margin: 0px;
+    width: 100%;
+height: 5.5rem;
+}
+
+/* icon/button mobile */
+@media screen and (max-width: 578px) {
+    .iconrack {
+
+    }
+}
